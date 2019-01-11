@@ -1,0 +1,15 @@
+{
+    "name": "trock/qqaiapi",
+    "description": "ai.qq.com php sdk ",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Trock",
+            "email": "admin@37e.cn",
+            "homepage": "http://www.37e.cn"
+        }
+    ],
+    "require": {}
+}
